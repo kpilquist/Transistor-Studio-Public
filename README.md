@@ -16,6 +16,15 @@ Your feedback and bug reports during this phase are invaluable!
 
 ---
 
+## Files:
+
+Both Windows Installer and JAR file are avaiable at the repo's Release
+
+[Download Transistor Studio v1.0.0-Beta-1 Windows Installer](https://github.com/kpilquist/Transistor-Studio-Public/releases/download/TS-1.0.0-Beta-1/TransistorStudio-1.0.exe)
+
+[Download Transistor Studio v1.0.0-Beta-1 (JAR)](https://github.com/kpilquist/Transistor-Studio-Public/releases/download/TS-1.0.0-Beta-1/TransistorStudio-1.0-SNAPSHOT.jar)
+
+
 ## Features
 
 ### 📡 Radio Control & Hardware Integration
