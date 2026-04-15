@@ -1,6 +1,6 @@
 # Transistor Studio
 
-![Transistor Studio Screen Shot](resources/images/transistor-studio-screenshot.png)
+![Transistor Studio Screen Shot](resources/images/Screenshot.png)
 
 Transistor Studio is a modern, cross-platform software suite for amateur radio operators, focusing on digital modes, radio control, and advanced signal processing. Built in Java with a clean Swing UI, it aims to provide a powerful and extensible platform for digital operations.
 
