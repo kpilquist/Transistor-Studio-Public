@@ -93,5 +93,6 @@ This project is open source and contributions are welcome! Feel free to open an 
 ## License
 
 This project is licensed under the **GNU General Public License v3.0**. See the LICENSE file for details.
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?business=JM6SZ2J9PZ7QW&no_recurring=0&currency_code=USD)
 
